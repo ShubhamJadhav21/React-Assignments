@@ -1,0 +1,41 @@
+.externalCss{
+    height: 400px;
+    width: 400px;
+    border: 1px solid pink;
+    border-radius: 2rem;
+    background-color: rgb(171, 87, 203);
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    padding-left: 5rem;
+
+}
+.imgStyle{
+    height: 30px;
+    width: 20px;
+}
+
+.app{
+    display: flex;
+    gap: 3rem;
+    
+   
+
+
+}
+.name{
+    color: white;
+    /* margin-left: 40px; */
+
+}
+.designation{
+    color: white;
+    /* margin-left: 40px; */
+}
+.des{
+    color: white;
+    /* margin-left: 40px; */
+    
+}
+.btn{
+    padding: 10px;
+    
+}
