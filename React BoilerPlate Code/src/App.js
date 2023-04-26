@@ -1,10 +1,10 @@
 import React from 'react'
-import Counter from './components/Counter'
+import NameUpdater from './components/NameUpdater'
 
 export default function App() {
   return (
     <div>
-      <Counter/>
+      <NameUpdater/>
     </div>
   )
 }
