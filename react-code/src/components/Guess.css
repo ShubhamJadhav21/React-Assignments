@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    width: 500px;
+    margin-left: 500px;
+    margin-top: 200px;
+}
+button{
+     height: 50px;
+     text-align: center;
+     font-size: larger;
+}
+input{
+    margin-bottom: 20px;
+    height: 50px;
+    text-align: center;
+    font-size: larger;
+}
+h1{
+    color:royalblue;
+}
